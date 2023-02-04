@@ -1,0 +1,26 @@
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\bin\Debug\IParcial.exe.config
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\bin\Debug\IParcial.exe
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\bin\Debug\IParcial.pdb
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.csproj.AssemblyReference.cache
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Ejercicio1.resources
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Properties.Resources.resources
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.csproj.GenerateResource.cache
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.csproj.CoreCompileInputs.cache
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.exe
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.pdb
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Ejercicio2.resources
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Ejercicio3.resources
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Ejercicio4.resources
+C:\Users\hakud\Documents\Lenguaje III\I-Parcial\IParcial\IParcial\obj\Debug\IParcial.Tarea_1.resources
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\bin\Debug\IParcial.exe.config
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\bin\Debug\IParcial.exe
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\bin\Debug\IParcial.pdb
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.csproj.AssemblyReference.cache
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.Properties.Resources.resources
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.Tarea_1.resources
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.csproj.GenerateResource.cache
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.csproj.CoreCompileInputs.cache
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.exe
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.pdb

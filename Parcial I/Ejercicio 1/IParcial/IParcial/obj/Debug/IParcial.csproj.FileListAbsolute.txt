@@ -24,3 +24,4 @@ C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IPar
 C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.csproj.CoreCompileInputs.cache
 C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.exe
 C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.pdb
+C:\Users\hakud\Documents\Lenguaje III\Tareas\Parcial I\Ejercicio 1\IParcial\IParcial\obj\Debug\IParcial.Tarea_2.resources

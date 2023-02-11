@@ -54,6 +54,12 @@
     <Compile Include="Tarea_1.Designer.cs">
       <DependentUpon>Tarea_1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Tarea_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tarea_2.Designer.cs">
+      <DependentUpon>Tarea_2.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,6 +71,9 @@
     </Compile>
     <EmbeddedResource Include="Tarea_1.resx">
       <DependentUpon>Tarea_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tarea_2.resx">
+      <DependentUpon>Tarea_2.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

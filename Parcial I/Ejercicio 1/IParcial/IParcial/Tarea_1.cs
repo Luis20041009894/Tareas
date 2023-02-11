@@ -90,7 +90,7 @@ namespace IParcial
             Close();
         }
 
-        //Para validar solo numeros o ((usar expresiones regulares))
+        //Para validar solo numeros 
         private void Numero1TextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
             if ((e.KeyChar >= 32 && e.KeyChar <= 44) || (e.KeyChar == 46) || (e.KeyChar == 47) || (e.KeyChar >= 58 && e.KeyChar <= 255))
